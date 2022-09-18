@@ -1,0 +1,128 @@
+[
+    {
+        "id": "1",
+        "tipo": "Guitarra",
+        "marca": "ESP",
+        "nombre": " Horizon II",
+        "Modelo": "Estrato",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L49516000002000-00-720x720.jpg",
+        "precio": "4399"
+    },
+    {
+        "id": "2",
+        "tipo": "Guitarra",
+        "marca": " Ibanez",
+        "nombre": "R9441F22G530E",
+        "Modelo": "Rg",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L38208000001000-00-720x720.jpg",
+        "precio": "6499"
+    },
+    {
+        "id": "3",
+        "tipo": "Guitarra",
+        "marca": "Gibson",
+        "nombre": "Traditional Pro V",
+        "Modelo": "Les paul",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L69587000002000-00-720x720.jpg",
+        "precio": "3099"
+    },
+    {
+        "id": "4",
+        "tipo": "Guitarra",
+        "marca": "Fender",
+        "nombre": " American Ultra",
+        "Modelo": "Telecaster",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L69996000002000-00-720x720.jpg",
+        "precio": "2099"
+    },
+    {
+        "id": "5",
+        "tipo": "Guitarra",
+        "marca": "PRS",
+        "nombre": "Studio 10-Top",
+        "Modelo": "Estrato",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L81866000008000-00-720x720.jpg",
+        "precio": "5090"
+    },
+    {
+        "id": "6",
+        "tipo": "Bajo",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "7",
+        "tipo": "Bajo",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "8",
+        "tipo": "Bajo",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "9",
+        "tipo": "Bajo",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "10",
+        "tipo": "Bajo",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "11",
+        "tipo": "Bateria",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "12",
+        "tipo": "Bateria",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "13",
+        "tipo": "Bateria",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    },
+    {
+        "id": "14",
+        "tipo": "Bateria",
+        "marca": "",
+        "nombre": "",
+        "Modelo": "",
+        "foto": "",
+        "precio": ""
+    }
+]
