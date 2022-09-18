@@ -1,7 +1,7 @@
 import React from 'react';
-import instagram from "../../assets/images/logosfooter/instagram.jpg";
-import facebook from "../../assets/images/logosfooter/facebook.jpg";
-import whatsapp from "../../assets/images/logosfooter/whatsapp.jpg";
+import instagram from "../../assets/images/logosfooter/instagram.png";
+import facebook from "../../assets/images/logosfooter/facebook.png";
+import whatsapp from "../../assets/images/logosfooter/whatsapp.png";
 import "./Footer.css";
 export const Footer = () => {
 
