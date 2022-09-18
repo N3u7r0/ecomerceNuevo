@@ -1,22 +1,28 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+import { Route, Routes } from "react-router-dom";
 import Home from "./componentes/home/Home";
 import Nosotros from "./componentes/nosotros/Nosotros";
 import Guitarras from "./componentes/guitarras/Guitarras";
 import Bajos from "./componentes/bajos/Bajos";
 import Baterias from "./componentes/baterias/Baterias";
 
+import NavBar from "./componentes/navBar/NavBar"
+import Footer from "./componentes/footer/Footer"
+
+
 const App = () => {
   return (
-    <BrowserRouter>
+    <>
+      <NavBar />
       <Routes>
-        <Route exact patch="/" element={<Home />} />
-        <Route exact patch="/nosotros" element={<Nosotros />} />
-        <Route exact patch="/guitarras" element={<Guitarras />} />
-        <Route exact patch="/bajos" element={<Bajos />} />
-        <Route exact patch="/baterias" element={<Baterias />} />
+        <Route patch='/' element={<Home />} />
+        <Route patch='/nosotros' element={<Nosotros />} />
+        <Route patch='/guitarras' element={<Guitarras/>} />
+        <Route patch='/bajos' element={<Bajos/>} />
+        <Route patch='/baterias' element={<Baterias />} />
       </Routes>
-    </BrowserRouter>
+      <Footer/>
+    </>
   )
 }
 export default App;

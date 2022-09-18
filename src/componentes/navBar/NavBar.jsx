@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from "../../assets/images/logo/logo.jpg";
 import Carrito from "../../assets/images/Carrito.png"
-import "./Nav.css";
+import "./NavBar.css";
 export const Nav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -25,9 +25,9 @@ export const Nav = () => {
                                 Productos
                             </a>
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Guitarras</a></li>
-                                <li><a class="dropdown-item" href="#">Bajos</a></li>
-                                <li><a class="dropdown-item" href="#">Baterias</a></li>
+                                <li><a className="dropdown-item" href="#">Guitarras</a></li>
+                                <li><a className="dropdown-item" href="#">Bajos</a></li>
+                                <li><a className="dropdown-item" href="#">Baterias</a></li>
                             </ul>
                         </li>
                         <li className="nav-item">

@@ -1,9 +1,8 @@
 import React from "react";
-import Nav from "../nav/Nav"
+
 const Bajos = () => {
     return (<div>
-        <Nav/>
-        
+        <h1>bajos</h1>
     </div>)
 }
 

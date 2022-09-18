@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div></div>
+    <footer>soy un pie</footer>
   )
 }
 export default Footer;

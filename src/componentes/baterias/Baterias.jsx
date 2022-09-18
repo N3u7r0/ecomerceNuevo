@@ -1,8 +1,8 @@
 import React from "react";
-import Nav from "../nav/Nav"
+
 const Baterias = () => {
     return (<div>
-        <Nav/>
+        <h1>Baterias</h1>
     </div>)
 }
 

@@ -1,9 +1,7 @@
 import React from "react";
-import Nav from "../nav/Nav"
-
 const Nosotros = () => {
     return (<div>
-        <Nav/>
+     <h1>Nosotros</h1>
     </div>)
 }
 
