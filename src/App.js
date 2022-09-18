@@ -14,6 +14,7 @@ const App = () => {
   return (
     <>
       <NavBar />
+      
       <Routes>
         <Route patch='/' element={<Home />} />
         <Route patch='/nosotros' element={<Nosotros />} />

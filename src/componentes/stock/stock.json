@@ -47,82 +47,82 @@
     {
         "id": "6",
         "tipo": "Bajo",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Ibanez",
+        "nombre": "SR5006 6-String",
+        "Modelo": "Rg",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/J18891000001000-00-720x720.jpg",
+        "precio": "2599"
     },
     {
         "id": "7",
         "tipo": "Bajo",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Yamaha",
+        "nombre": "TRBX305 5-String",
+        "Modelo": "Estrato",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/J01917000004001-00-720x720.jpg",
+        "precio": "4299"
     },
     {
         "id": "8",
         "tipo": "Bajo",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Fender",
+        "nombre": "Tony Franklin Fretless",
+        "Modelo": "Precision Bass",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/516048000001000-00-720x720.jpg",
+        "precio": "2149"
     },
     {
         "id": "9",
         "tipo": "Bajo",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Spector",
+        "nombre": "NS-5XL Quilted",
+        "Modelo": "Estrato",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L71063000001000-00-720x720.jpg",
+        "precio": "6999"
     },
     {
         "id": "10",
         "tipo": "Bajo",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Spector",
+        "nombre": "NS5",
+        "Modelo": "Estrato",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L79969000001000-00-720x720.jpg",
+        "precio": "6449"
     },
     {
         "id": "11",
         "tipo": "Bateria",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Roland",
+        "nombre": "TD-50KV2",
+        "Modelo": "7 cuerpos",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L85156000000000-00-720x720.jpg",
+        "precio": "8399"
     },
     {
         "id": "12",
         "tipo": "Bateria",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Dw drums",
+        "nombre": "Collector's Series",
+        "Modelo": "7 cuerpos",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/J55419000000000-00-720x720.jpg",
+        "precio": "10329"
     },
     {
         "id": "13",
         "tipo": "Bateria",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Tama",
+        "nombre": "STAR Factory Vault",
+        "Modelo": "6 cuerpos",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/L96078000000001-00-720x720.jpg",
+        "precio": "8999"
     },
     {
         "id": "14",
         "tipo": "Bateria",
-        "marca": "",
-        "nombre": "",
-        "Modelo": "",
-        "foto": "",
-        "precio": ""
+        "marca": "Yamaha",
+        "nombre": " 50th Anniversary",
+        "Modelo": "5 cuerpos",
+        "foto": "https://media.guitarcenter.com/is/image/MMGS7/J53748000001000-00-720x720.jpg",
+        "precio": "7199"
     }
 ]
