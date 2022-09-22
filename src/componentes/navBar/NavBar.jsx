@@ -1,12 +1,14 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import Logo from "../../assets/images/logo/logo.jpg";
-import Carrito from "../../assets/images/Carrito.png"
+
 import "./NavBar.css";
+
 export const Nav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#"><img className="Logo" src={Logo} alt="logo Empresa"/></a>
+                <a className="navbar-brand" href="#"><img className="Logo" src={Logo} alt="logo Empresa" /></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
@@ -14,10 +16,10 @@ export const Nav = () => {
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
+                            <NavLink className="nav-link active" aria-current="page" to={"/"}>Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Nosotros</a>
+                            <NavLink className="nav-link" to={"/nosotros"}>Nosotros</NavLink>
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -25,14 +27,13 @@ export const Nav = () => {
                                 Productos
                             </a>
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a className="dropdown-item" href="#">Guitarras</a></li>
-                                <li><a className="dropdown-item" href="#">Bajos</a></li>
-                                <li><a className="dropdown-item" href="#">Baterias</a></li>
+                                <li><NavLink className="dropdown-item" to={"/todos-los-productos"}>Todos los productos</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/guitarras"}>Guitarras</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/bajos"}>Bajos</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/baterias"}>Baterias</NavLink></li>
                             </ul>
                         </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">Carrito</a><img className="Carrito" src={Carrito} alt="logo Carrito"/>
-                        </li>
+                        
                     </ul>
                 </div>
             </div>

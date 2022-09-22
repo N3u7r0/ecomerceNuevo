@@ -4,7 +4,7 @@
         "tipo": "Guitarra",
         "marca": "ESP",
         "nombre": " Horizon II",
-        "Modelo": "Estrato",
+        "modelo": "Estrato",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L49516000002000-00-720x720.jpg",
         "precio": "4399"
     },
@@ -13,7 +13,7 @@
         "tipo": "Guitarra",
         "marca": " Ibanez",
         "nombre": "R9441F22G530E",
-        "Modelo": "Rg",
+        "modelo": "Rg",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L38208000001000-00-720x720.jpg",
         "precio": "6499"
     },
@@ -22,7 +22,7 @@
         "tipo": "Guitarra",
         "marca": "Gibson",
         "nombre": "Traditional Pro V",
-        "Modelo": "Les paul",
+        "modelo": "Les paul",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L69587000002000-00-720x720.jpg",
         "precio": "3099"
     },
@@ -31,7 +31,7 @@
         "tipo": "Guitarra",
         "marca": "Fender",
         "nombre": " American Ultra",
-        "Modelo": "Telecaster",
+        "modelo": "Telecaster",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L69996000002000-00-720x720.jpg",
         "precio": "2099"
     },
@@ -40,7 +40,7 @@
         "tipo": "Guitarra",
         "marca": "PRS",
         "nombre": "Studio 10-Top",
-        "Modelo": "Estrato",
+        "modelo": "Estrato",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L81866000008000-00-720x720.jpg",
         "precio": "5090"
     },
@@ -49,7 +49,7 @@
         "tipo": "Bajo",
         "marca": "Ibanez",
         "nombre": "SR5006 6-String",
-        "Modelo": "Rg",
+        "modelo": "Rg",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/J18891000001000-00-720x720.jpg",
         "precio": "2599"
     },
@@ -58,7 +58,7 @@
         "tipo": "Bajo",
         "marca": "Yamaha",
         "nombre": "TRBX305 5-String",
-        "Modelo": "Estrato",
+        "modelo": "Estrato",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/J01917000004001-00-720x720.jpg",
         "precio": "4299"
     },
@@ -67,7 +67,7 @@
         "tipo": "Bajo",
         "marca": "Fender",
         "nombre": "Tony Franklin Fretless",
-        "Modelo": "Precision Bass",
+        "modelo": "Precision Bass",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/516048000001000-00-720x720.jpg",
         "precio": "2149"
     },
@@ -76,7 +76,7 @@
         "tipo": "Bajo",
         "marca": "Spector",
         "nombre": "NS-5XL Quilted",
-        "Modelo": "Estrato",
+        "modelo": "Estrato",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L71063000001000-00-720x720.jpg",
         "precio": "6999"
     },
@@ -85,7 +85,7 @@
         "tipo": "Bajo",
         "marca": "Spector",
         "nombre": "NS5",
-        "Modelo": "Estrato",
+        "modelo": "Estrato",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L79969000001000-00-720x720.jpg",
         "precio": "6449"
     },
@@ -94,7 +94,7 @@
         "tipo": "Bateria",
         "marca": "Roland",
         "nombre": "TD-50KV2",
-        "Modelo": "7 cuerpos",
+        "modelo": "7 cuerpos",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L85156000000000-00-720x720.jpg",
         "precio": "8399"
     },
@@ -103,7 +103,7 @@
         "tipo": "Bateria",
         "marca": "Dw drums",
         "nombre": "Collector's Series",
-        "Modelo": "7 cuerpos",
+        "modelo": "7 cuerpos",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/J55419000000000-00-720x720.jpg",
         "precio": "10329"
     },
@@ -112,7 +112,7 @@
         "tipo": "Bateria",
         "marca": "Tama",
         "nombre": "STAR Factory Vault",
-        "Modelo": "6 cuerpos",
+        "modelo": "6 cuerpos",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/L96078000000001-00-720x720.jpg",
         "precio": "8999"
     },
@@ -121,7 +121,7 @@
         "tipo": "Bateria",
         "marca": "Yamaha",
         "nombre": " 50th Anniversary",
-        "Modelo": "5 cuerpos",
+        "modelo": "5 cuerpos",
         "foto": "https://media.guitarcenter.com/is/image/MMGS7/J53748000001000-00-720x720.jpg",
         "precio": "7199"
     }
