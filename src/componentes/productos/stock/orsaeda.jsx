@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 import Producto from "../producto/Producto";
 
-const Productos = () => {
+const Productosaaaaaa = () => {
     const [items, setItems] = useState([]);
     useEffect(() => {
         fetch("./stock/stock.json")
@@ -20,7 +20,6 @@ const Productos = () => {
                 {items.map(producto => (
                         <div key={producto.id} className="col-md-3">
                             <Producto item={producto} />
-                            
                         </div>
                 ))}
             </div>
@@ -28,4 +27,4 @@ const Productos = () => {
     )
 }
 
-export default Productos;
+export default Productosaaaaaa;
