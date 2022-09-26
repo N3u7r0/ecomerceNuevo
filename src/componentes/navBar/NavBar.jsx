@@ -28,9 +28,9 @@ export const Nav = () => {
                             </a>
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><NavLink className="dropdown-item" to={"/todos-los-productos"}>Todos los productos</NavLink></li>
-                                <li><NavLink className="dropdown-item" to={"/guitarras"}>Guitarras</NavLink></li>
-                                <li><NavLink className="dropdown-item" to={"/bajos"}>Bajos</NavLink></li>
-                                <li><NavLink className="dropdown-item" to={"/baterias"}>Baterias</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/guitarra"}>Guitarras</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/bajo"}>Bajos</NavLink></li>
+                                <li><NavLink className="dropdown-item" to={"/bateria"}>Baterias</NavLink></li>
                             </ul>
                         </li>
                         
