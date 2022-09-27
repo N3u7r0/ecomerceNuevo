@@ -5,10 +5,9 @@ import Producto from "../producto/Producto";
 
 const Productos = () => {
     const [items, setItems] = useState([]);
-    const { tipo } = useParams();
+    const { tipo} = useParams();
 
     useEffect(() => {
-
         let categoria = "";
         if (tipo === "guitarra") {
             categoria = "Guitarra";
@@ -19,7 +18,6 @@ const Productos = () => {
         } else {
             categoria = "todos";
         }
-
         const getData = () => {
             fetch('data.json', { headers: { 'Content-Type': 'MI-APP/json', 'Accept': 'MI-APP/json' } })
                 .then(respuesta => respuesta.json())
@@ -34,6 +32,7 @@ const Productos = () => {
         }
         getData();
     }, [tipo])
+    
     return (
         <div className="container">
             <div className="row">

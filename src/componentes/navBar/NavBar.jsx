@@ -8,7 +8,7 @@ export const Nav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#"><img className="Logo" src={Logo} alt="logo Empresa" /></a>
+                <NavLink className="navbar-brand" to={"/"}><img className="Logo" src={Logo} alt="logo Empresa" /></NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
@@ -23,9 +23,7 @@ export const Nav = () => {
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">
-                                Productos
-                            </a>
+                                data-bs-toggle="dropdown" aria-expanded="false">Productos</a>
                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><NavLink className="dropdown-item" to={"/todos-los-productos"}>Todos los productos</NavLink></li>
                                 <li><NavLink className="dropdown-item" to={"/guitarra"}>Guitarras</NavLink></li>
@@ -33,7 +31,6 @@ export const Nav = () => {
                                 <li><NavLink className="dropdown-item" to={"/bateria"}>Baterias</NavLink></li>
                             </ul>
                         </li>
-                        
                     </ul>
                 </div>
             </div>

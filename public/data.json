@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "0",
         "tipo": "Guitarra",
         "marca": "ESP",
         "nombre": " Horizon II",
@@ -9,7 +9,7 @@
         "precio": "4399"
     },
     {
-        "id": "2",
+        "id": "1",
         "tipo": "Guitarra",
         "marca": " Ibanez",
         "nombre": "R9441F22G530E",
@@ -18,7 +18,7 @@
         "precio": "6499"
     },
     {
-        "id": "3",
+        "id": "2",
         "tipo": "Guitarra",
         "marca": "Gibson",
         "nombre": "Traditional Pro V",
@@ -27,7 +27,7 @@
         "precio": "3099"
     },
     {
-        "id": "4",
+        "id": "3",
         "tipo": "Guitarra",
         "marca": "Fender",
         "nombre": " American Ultra",
@@ -36,7 +36,7 @@
         "precio": "2099"
     },
     {
-        "id": "5",
+        "id": "4",
         "tipo": "Guitarra",
         "marca": "PRS",
         "nombre": "Studio 10-Top",
@@ -45,7 +45,7 @@
         "precio": "5090"
     },
     {
-        "id": "6",
+        "id": "5",
         "tipo": "Bajo",
         "marca": "Ibanez",
         "nombre": "SR5006 6-String",
@@ -54,7 +54,7 @@
         "precio": "2599"
     },
     {
-        "id": "7",
+        "id": "6",
         "tipo": "Bajo",
         "marca": "Yamaha",
         "nombre": "TRBX305 5-String",
@@ -63,7 +63,7 @@
         "precio": "4299"
     },
     {
-        "id": "8",
+        "id": "7",
         "tipo": "Bajo",
         "marca": "Fender",
         "nombre": "Tony Franklin Fretless",
@@ -72,7 +72,7 @@
         "precio": "2149"
     },
     {
-        "id": "9",
+        "id": "8",
         "tipo": "Bajo",
         "marca": "Spector",
         "nombre": "NS-5XL Quilted",
@@ -81,7 +81,7 @@
         "precio": "6999"
     },
     {
-        "id": "10",
+        "id": "9",
         "tipo": "Bajo",
         "marca": "Spector",
         "nombre": "NS5",
@@ -90,7 +90,7 @@
         "precio": "6449"
     },
     {
-        "id": "11",
+        "id": "10",
         "tipo": "Bateria",
         "marca": "Roland",
         "nombre": "TD-50KV2",
@@ -99,7 +99,7 @@
         "precio": "8399"
     },
     {
-        "id": "12",
+        "id": "11",
         "tipo": "Bateria",
         "marca": "Dw drums",
         "nombre": "Collector's Series",
@@ -108,7 +108,7 @@
         "precio": "10329"
     },
     {
-        "id": "13",
+        "id": "12",
         "tipo": "Bateria",
         "marca": "Tama",
         "nombre": "STAR Factory Vault",
@@ -117,7 +117,7 @@
         "precio": "8999"
     },
     {
-        "id": "14",
+        "id": "13",
         "tipo": "Bateria",
         "marca": "Yamaha",
         "nombre": " 50th Anniversary",
