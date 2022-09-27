@@ -4,20 +4,20 @@ import { useParams } from "react-router-dom";
 
 const Detalle = () => {
     const [item, setItem] = useState([])
-    const { tipo } = useParams();
+    const { id } = useParams();
 
     useEffect(() => {
         const getData = () => {
             fetch('data.json', { headers: { 'Content-Type': 'MI-APP/json', 'Accept': 'MI-APP/json' } })
                 .then(respuesta => respuesta.json())
                 .then(productosTodos => {
-                    console.log(productosTodos[tipo]);
-                    setItem(productosTodos[tipo]);
+                    console.log(productosTodos[id]);
+                    setItem(productosTodos[id]);
                 }
                 );
         }
         getData();
-    }, [tipo]);
+    }, [id]);
 
     return (<div className="container">
         <div className="card">

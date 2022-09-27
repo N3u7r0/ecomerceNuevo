@@ -21,9 +21,6 @@ export const Nav = () => {
                         <li className="nav-item">
                             <NavLink className="nav-link" to={"/nosotros"}>Nosotros</NavLink>
                         </li>
-                        <li className="nav-item">
-                            <NavLink className="nav-link" to={"/detalleproto"}>prototipo de prodcuto</NavLink>
-                        </li>
                         <li className="nav-item dropdown">
                             <NavLink className="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false">Productos</NavLink>
